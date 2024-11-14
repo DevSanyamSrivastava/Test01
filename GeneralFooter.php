@@ -1,6 +1,6 @@
 <!-- 
     Document   :  AdminFooter
-    Created on :  Sep 10, 2023, 6:01:20 PM
+    Created on :  Nov 14, 2024, 
     Author     :  Sanyam Srivastava
 -->
 
@@ -22,7 +22,7 @@
         </style>
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>shivrajfoundation</title>
     </head>
     <body>
         <footer>
