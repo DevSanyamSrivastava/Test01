@@ -6,7 +6,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ShivRaj Foundation</title>
-  <link rel="icon" type="image/png" href="assets/img/Products/img9.png">
+  <link rel="icon" type="image/png" href="assets/img/Fav.png">
 
   <!-- Bootstrap CSS -->
 
